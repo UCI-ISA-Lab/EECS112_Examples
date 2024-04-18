@@ -3,7 +3,7 @@ A collection of example code used for EECS 112 at UCI.
 
 ## Dependencies
 
-If you are using a linux machine:
+If you are using a linux machine (Ubuntu-based):
 ```console
 sudo apt install build-essential gcc g++
 ```
