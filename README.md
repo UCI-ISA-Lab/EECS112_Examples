@@ -8,7 +8,7 @@ If you are using a linux machine:
 sudo apt install build-essential gcc g++
 ```
 
-If you are using a Mac with homebrew[https://brew.sh]:
+If you are using a Mac with [homebrew](https://brew.sh):
 ```console
 brew install gcc g++
 ```
