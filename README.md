@@ -1,4 +1,5 @@
 A collection of example code used for EECS 112 at UCI.
+(Instructor: [Prof. Hyoukjun Kwon](https://hyoukjunkwon.com)
 
 
 ## Dependencies
