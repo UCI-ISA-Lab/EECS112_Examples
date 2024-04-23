@@ -16,7 +16,12 @@ brew install gcc g++
 
 ## Compilation
 
-In each indivudal folder, use the makefile. (Type the following command)
+In each folder, use the makefile. (Type the following command)
 ```console
 make
+```
+
+To clean up the compiled files, type the following command
+```console
+make clean
 ```
